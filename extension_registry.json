@@ -1,11 +1,14 @@
 [ 
   {
-    name: "dracula_theme",
-    author: "Sinista121",
-    categories: ["themes"],
-    version: "1.0.0",
-    verified: true,
-    repo: "https://github.com/Sinista121/corrode-extensions/tree/dracula-theme",
-    download: "https://github.com/Sinista121/corrode-extensions/releases/download/dracula-theme-v1.0.0/dracula_theme.wasm"
+    "id": "dracula_theme",
+    "name": "Dracula Theme",
+    "description": "An extension for the Dracula Theme in the corrode editor.",
+    "author": "Sinista121",
+    "categories": ["themes"],
+    "version": "1.0.0",
+    "verified": true,
+    "repository": "https://github.com/Sinista121/corrode-extensions/tree/dracula-theme",
+    "download_url": "https://github.com/Sinista121/corrode-extensions/releases/download/dracula-theme-v1.0.0/dracula_theme.wasm",
+    "icon_url": "https://raw.githubusercontent.com/Sinista121/corrode-extensions/refs/heads/dracula-theme/moon.png"
   }
 ]
