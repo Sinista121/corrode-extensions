@@ -1,0 +1,11 @@
+[ 
+  {
+    name: "dracula_theme",
+    author: "Sinista121",
+    categories: ["themes"],
+    version: "1.0.0",
+    verified: true,
+    repo: "https://github.com/Sinista121/corrode-extensions/tree/dracula-theme",
+    download: "https://github.com/Sinista121/corrode-extensions/releases/download/dracula-theme-v1.0.0/dracula_theme.wasm"
+  }
+]
